@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[gui]
+	wmstate = normal
+	geometry = 893x435+125+125 175 196
